@@ -1,4 +1,4 @@
-# End-to-end-DevOps | Go-MongoDB App
+# End-to-end-DevOps | Go-MongoDB App | tahnks to "johnbedeir"
 
 <img src=imgs/cover.png>
 
